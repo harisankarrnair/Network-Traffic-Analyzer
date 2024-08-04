@@ -12,4 +12,6 @@ set FLASK_APP=app.py
 2) Run Flask: 
 flask run 
  
-3) Copy the url displayed in the teminal window -> paste it in a browser-> press enter  
+3) Copy the url displayed in the teminal window -> paste it in a browser-> press enter
+
+   You can view the results in the browser also the result will be stored in the folder static in the same directory.
